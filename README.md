@@ -1,0 +1,1 @@
+# Diagn-stico-de-Doen-as-Foliares-com-Redes-Convolucionais-e-Transfer-ncia-de-Aprendizad-
